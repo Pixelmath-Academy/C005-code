@@ -3,7 +3,7 @@ C005 Code resources for posncom camp 1
 
 This document includes resources of @pixelmath education
 - Purpose is to store files and codes only
-- Using grader at www.pixelgrader.com and solutions in https://github.com/Pixelmath-Academy/Pixelgrader-Codes
+- Using grader at [pixelgrader]([https:/pixelgrader.com)) and solutions in [solutions]([https://github.com/yourusername/yourrepo](https://github.com/Pixelmath-Academy/Pixelgrader-Codes))
 - Content in this courses updated via 2025
 - use ```git clone [this repository URL]``` and then update content use ```git pull [this repository URL]```
 
