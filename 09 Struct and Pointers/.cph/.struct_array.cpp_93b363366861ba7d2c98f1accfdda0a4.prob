@@ -1,0 +1,1 @@
+{"name":"Local: struct_array","url":"/Users/dewwts/C005-code/09 Struct and Pointers/struct_array.cpp","tests":[{"id":1742736986628,"input":"3\nHarry 16 1\nRon 15 1\nHermione 80 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/dewwts/C005-code/09 Struct and Pointers/struct_array.cpp","group":"local","local":true}
