@@ -7,7 +7,7 @@ This document includes resources of @pixelmath education
 - Content in this courses updated via 2025
 - use ```git clone [this repository URL]``` and then update content use ```git pull [this repository URL]```
 
-![C005](https://pixelmathschool.com/wp-content/uploads/2025/03/C005.png)
+![Pixelmath](https://pixelmathschool.com/wp-content/uploads/2025/03/C005.png)
 
 ### Courses & Language
 | Courses | Code Language | ผู้สอน |
