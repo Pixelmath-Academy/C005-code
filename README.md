@@ -5,6 +5,7 @@ This document includes resources of @pixelmath education
 - Purpose is to store files and codes only
 - Using grader at www.pixelgrader.com
 - Content in this courses updated via 2025
+- use ```git clone [this repository URL]``` and then update content use ```git pull [this repository URL]```
 
 <img src="https://github.com/user-attachments/assets/1ac78f3b-e5d5-40fa-bbd1-fc39b4fc8822" width="500">
 
