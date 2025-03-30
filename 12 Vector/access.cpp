@@ -17,7 +17,8 @@ int main() {
     }
     
     letters = {'x', 'y', 'z'};
-    letters.erase(letters.begin() + 1);
+    
+    letters.erase(letters.begin() + 1); //
     
     cout << "After erase: ";
     for(char c : letters) {

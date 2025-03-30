@@ -6,6 +6,14 @@ using namespace std;
 int main() {
     vector<double> prices(5);
     
+    vector<string> name(5, "dew");
+    for(auto d : name) cout << d << " ";
+    cout << endl;
+    
+    
+    string arr[5];
+    for(int i=0; i<4; i++) arr[i] = "dew";
+    
     for(int i = 0; i < prices.size(); i++) {
         prices[i] = (i + 1) * 10.5;
     }
