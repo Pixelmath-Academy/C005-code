@@ -1,5 +1,5 @@
 # C005-code
-![C005 Banner](https://pixelmathschool.com/wp-content/uploads/2025/05/Change-68.jpg)
+<img src="https://pixelmathschool.com/wp-content/uploads/2025/05/Change-68.jpg" width="500">
 
 C005 Code resources for posncom camp 1
 
